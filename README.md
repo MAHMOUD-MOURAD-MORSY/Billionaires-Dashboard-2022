@@ -1,1 +1,8 @@
-![لقطة شاشة](Screenshot from dashboard.png)
+# عنوان المشروع
+
+وصف بسيط عن المشروع بتاعك.
+
+## لقطة شاشة
+
+![لقطة شاشة](./اScreenshot from dashboard.png)
+
