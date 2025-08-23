@@ -4,5 +4,5 @@
 
 ## لقطة شاشة
 
-![لقطة شاشة](./اScreenshot from dashboard.png)
+![لقطة شاشة](D:\power bi project\forbes_2022_billionaires)
 
